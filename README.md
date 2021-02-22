@@ -1,6 +1,8 @@
 # A Thank You to PLTea
 
-ArchChat is using this modified Jekyll GitHub page source code provided by Rachit & the gang at [PLTea](https://github.com/pltea/pltea.github.io). This will help us get the site running quickly, because thankfully we don't need much. Thanks once again, Rachit et al. 
+ArchChat is using this modified Jekyll & GitHub Page source code provided by Rachit & the gang at [PLTea](https://github.com/pltea/pltea.github.io). This will help us get the site running quickly, because thankfully we don't need much. Thanks once again, Rachit et al.
+
+Elba
 
 ==================================================================================
 
