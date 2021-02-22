@@ -4,15 +4,26 @@ layout: default
 
 # What is the ArchChat Social Hour?
 
-TODO
+The ArchChat Social Hour is a fully-virtual monthly social event organized jointly by [CASA](http://www.comparchsa.org) and [PLTea](http://pltea.github.io). 
+PLTea is a similar initiative within the PL (programming languages) community and has graciously offered to help establish our own series within computer architecture.
+
+We plan to meet monthly, virtually via Zoom where attendees will randomly break into small social rooms (3-4 people apiece) so we can chat about 
+school, work, or whatever comes to mind. 
+
 
 # Who can join in?
 
-TODO
+While the ArchChat Social Hour is geared towards students in computer architecture, all are welcome to join!
+Those in adjacent research areas to computer architecture are also welcome.
+
+Note that ArchChat Social Hour is inherently informal and is a chance to chat with fellow computer architecture 
+researchers, do know it is still a professional event and everyone is expected to abide with [CARES][cares] policies.
 
 # How do I join?
 
-TODO
+Each ArchChat Social Hour instantiation will have its own Zoom Registration Link. Register via the link(s) below. If you are signed up to the 
+CASA mailing list and/or participate in our Slack workspace, we will also share up-to-date information there. If you are not, 
+be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 # Upcoming Event
 
@@ -27,5 +38,6 @@ TODO
 | January 14 2021, 3PM ET      |      37      |
 
 
-[feb26rsvp]:  https://tamu.zoom.us/meeting/register/tJIlcOqgqz8iEtAd63-iqSqQMNN9h2taZOVG
-[group]: https://groups.google.com/g/pltea
+[feb26]:  https://tamu.zoom.us/meeting/register/tJIlcOqgqz8iEtAd63-iqSqQMNN9h2taZOVG
+[signup]: https://www.comparchsa.org/join/ 
+[cares]: https://www.sigarch.org/benefit/cares/
