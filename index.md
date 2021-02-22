@@ -33,9 +33,9 @@ be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 # Previous Events
 
-| When                         | Participants |
-|------------------------------|--------------|
-| January 14 2021, 3PM ET      |      37      |
+| When                           | Participants |
+|--------------------------------|--------------|
+| January 14th 2021, 3PM ET      |      37      |
 
 
 [feb26]:  https://tamu.zoom.us/meeting/register/tJIlcOqgqz8iEtAd63-iqSqQMNN9h2taZOVG
