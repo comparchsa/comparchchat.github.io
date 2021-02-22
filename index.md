@@ -9,8 +9,7 @@ You can talk about that new hobby you picked up, or that new cool programming la
 
 # Am I allowed to come?
 
-Yes! We treat the term "PL community" extremely loosely and encourage people to join regardless of their specific research interest in PL.
-This is doubly true if you are a student curious to learn programming languages.
+Yes! 
 
 # How do I join?
 
@@ -20,11 +19,9 @@ The event goes for as long as people express interest in sticking around!
 
 # Previous Events
 
-| When                        | Participants |
-|-----------------------------|--------------|
-| 28th January 2020, 3PM EST  |              |
-| 3rd December 2020, 3PM EST  |           40 |
-| 8th September 2020, 3PM EST |           45 |
+| When                         | Participants |
+|------------------------------|--------------|
+| 26th February 2021, 11AM EST |              |
 
 
 [group]: https://groups.google.com/g/pltea
