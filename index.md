@@ -2,26 +2,30 @@
 layout: default
 ---
 
-# What is PLTea?
+# What is the ArchChat Social Hour?
 
-[PLTea](https://pltea.github.io/) is an initiative to bring together the members of the programming languages community for informal virtual discussions.
-You can talk about that new hobby you picked up, or that new cool programming language you designed, or that amazing paper you wrote.
+TODO
 
-# Am I allowed to come?
+# Who can join in?
 
-Yes! 
+TODO
 
 # How do I join?
 
-The logistics are simple. You express your interest by joining our [Google Group][group] where we share a Zoom link for the next meeting.
-During PLTea, all participants are randomly assigned to breakout rooms. The rooms are shuffled every fifteen to twenty minutes.
-The event goes for as long as people express interest in sticking around!
+TODO
+
+# Upcoming Event
+
+| When                         | RSVP Link    |
+|------------------------------|--------------|
+| February 26th 2021, 11AM ET  | [RSVP HERE][feb26]  |
 
 # Previous Events
 
 | When                         | Participants |
 |------------------------------|--------------|
-| 26th February 2021, 11AM EST |              |
+| January 14 2021, 3PM ET      |      37      |
 
 
+[feb26rsvp]:  https://tamu.zoom.us/meeting/register/tJIlcOqgqz8iEtAd63-iqSqQMNN9h2taZOVG
 [group]: https://groups.google.com/g/pltea
