@@ -51,20 +51,6 @@
 
         <div style="margin-bottom: 50px;"></div>
 
-        <h2 class="organizer-title">PLTeaM</h2>
-
-        <ul class="organizer-gallery">
-            {% for member in site.data.members %}
-            {% if member.active == true %}
-            <li>
-                <a href="{{ member.website }}">
-                    <img src="{{ member.photo }}" alt="{{ member.name }}" title="{{ member.name }}" width="85">
-                </a>
-            </li>
-            {% endif %}
-            {% endfor %}
-        </ul>
-
       </header>
 
       <section>
