@@ -27,17 +27,17 @@ be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 # Upcoming Event
 
-| When                         | RSVP Link    |
-|------------------------------|--------------|
-| February 26th 2021, 11AM ET  | [RSVP HERE][feb26]  |
+| When                         | RSVP Link        |
+|------------------------------|------------------|
+| TBD                          | Check back soon! |
 
 # Previous Events
 
 | When                           | Participants |
 |--------------------------------|--------------|
+| February 26th 2021, 11AM ET    |      40      |
 | January 14th 2021, 3PM ET      |      37      |
 
 
-[feb26]:  https://tamu.zoom.us/meeting/register/tJIlcOqgqz8iEtAd63-iqSqQMNN9h2taZOVG
 [signup]: https://www.comparchsa.org/join/ 
 [cares]: https://www.sigarch.org/benefit/cares/
