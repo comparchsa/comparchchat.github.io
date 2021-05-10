@@ -29,7 +29,7 @@ be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 | When                         | RSVP Link        |
 |------------------------------|------------------|
-| May 21st 2021, 11 AM ET      | Check back soon! |
+| May 21st 2021, 11 AM ET      | [RSVP HERE][rsvp]|
 
 # Previous Events
 
@@ -41,3 +41,4 @@ be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 [signup]: https://www.comparchsa.org/join/ 
 [cares]: https://www.sigarch.org/benefit/cares/
+[rsvp]: https://tamu.zoom.us/meeting/register/tJAkdeytqj0oH9GHEZZ74tkDUlkvr5FEp2UY
