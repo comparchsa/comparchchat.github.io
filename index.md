@@ -29,7 +29,7 @@ be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 | When                         | RSVP Link        |
 |------------------------------|------------------|
-| June 2021                    | TBD              |
+| June 2021                    | [RSVP Link][rsvp]|
 
 # Previous Events
 
@@ -42,4 +42,4 @@ be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 [signup]: https://www.comparchsa.org/join/ 
 [cares]: https://www.sigarch.org/benefit/cares/
-[rsvp]: https://tamu.zoom.us/meeting/register/tJAkdeytqj0oH9GHEZZ74tkDUlkvr5FEp2UY
+[rsvp]:  https://tamu.zoom.us/meeting/register/tJEkf-Cuqz8tHNMB4jIfvomaWRs2W_kS7R0F
