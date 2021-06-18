@@ -29,7 +29,7 @@ be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 | When                         | RSVP Link        |
 |------------------------------|------------------|
-| June 2021                    | [RSVP Link][rsvp]|
+| June 25th 2021, 11 AM ET     | [RSVP Link][rsvp]|
 
 # Previous Events
 
