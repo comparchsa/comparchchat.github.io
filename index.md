@@ -29,12 +29,13 @@ be sure to [sign up][signup] to stay in touch. Chat with you soon!
 
 | When                         | RSVP Link        |
 |------------------------------|------------------|
-| June 25th 2021, 11 AM ET     | [RSVP Link][rsvp]|
+| TBD                          | TBD              |
 
 # Previous Events
 
 | When                           | Participants |
 |--------------------------------|--------------|
+| June 25th 2021, 11 AM ET       |      18      |
 | May 21st 2021, 11 AM ET        |      25      |
 | February 26th 2021, 11AM ET    |      40      |
 | January 14th 2021, 3PM ET      |      37      |
